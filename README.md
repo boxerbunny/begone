@@ -15,7 +15,7 @@ A method to identify a nature-corrupting spirit and persuade it to leave.
 1. Designate a location within the corrupted area as your campsite.
 1. Split into groups or individuals. Randomly divide all Singular Tasks among yourselves.
 1. From the campsite, journey in separate directions. Complete all 5 General Tasks and any assigned Singular Tasks.
-   - *Beware: The spirit's gaze will be upon you. Take all necessary precautions, especially if traveling alone.*
+   - *Beware: The spirit's gaze is upon you. Take all necessary precautions, especially if traveling alone.*
 1. After an agreed-upon time period, reunite at the campsite.
 1. Combine your research to gain an understanding of the corrupting spirit.
 1. When ready, conduct the Purification Ritual.
