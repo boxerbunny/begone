@@ -9,7 +9,7 @@ A method to identify a nature-corrupting spirit and persuade it to leave.
 
 ### Materials
 - 3 or more Mystics
-- Notepads and pencils
+- Notepads and pens
 - (optional) Gloves
 - (optional) Carrying bags
 
