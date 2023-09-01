@@ -24,7 +24,7 @@ A method to identify a nature-corrupting spirit and persuade it to leave.
 
 ### General Tasks
 - Discern the spirit's effects on the area. Note any time you feel its presence.
-- Whenever something unusual occurs, decide whether it's a Good Omen or an Ill Omen.
+- Whenever something unusual occurs, decide whether it's a Good Omen or an Ill Omen and write it down.
 - Write down any known lore that might pertain to this case.
 - Collect an Object of Power. This can be anything in the environment that calls to you.
 - After all other Tasks are complete, deduce one or more Offerings the spirit might appreciate based on what you know.
