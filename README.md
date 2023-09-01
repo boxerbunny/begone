@@ -1,3 +1,5 @@
+*pre-playtest alpha v1.0*
+
 ### Disclaimers
 - Evil spirits are not real. Even if they were, BEGONE is not designed to banish them. BEGONE should only be used as an excuse to run around the woods with your friends and make up a spooky story together.
 - Respect the environment and any bystanders you meet while playing BEGONE. Never incorporate fire into your ritual, no matter how cool you think it would be.
@@ -42,7 +44,7 @@ A method to identify a nature-corrupting spirit and persuade it to leave.
     - Note that initial assumptions may have been incorrect and may be revised based on group consensus.
 - (optional) Sketch what the spirit might look like.
 
-### Planning the Ritual
+### Final Preparations
 - Tally the total numbers of Good Omens and Ill Omens.
 - Draw each of the 4 Glyphs on separate slips of paper.
 - Draw the Symbol of the spirit on a new page, modifying the original design if necessary.
@@ -57,7 +59,7 @@ A method to identify a nature-corrupting spirit and persuade it to leave.
     - *Beware: The spirit is now present. Do not touch its Symbol from this point forward.*
 
 ### Communicating With the Spirit
-- Within the ritual space, a Mystic may address the spirit with a yes-or-no question.
+- Within the ritual space, a Mystic may communicate with the spirit by addressing its Symbol with a yes-or-no question.
 - To receive the answer, select two Glyphs at random. Two Pure Glyphs represent an affirmation, while two Foul Glyphs represent a denial. A mixed result is a refusal to answer.
 
 ### Conducting the Ritual
