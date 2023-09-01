@@ -40,7 +40,7 @@ A method to identify a nature-corrupting spirit and persuade it to leave.
 
 ### Discussion
 - One at a time, relay your experiences and present your creations. Produce your Objects of Power and describe them.
-- Based on the group's findings, discern the spirit's powers and motivations.
+- Based on the group's findings, discern the spirit's origin, powers, and motivations.
     - Note that initial assumptions may have been incorrect and may be revised based on group consensus.
 - (optional) Sketch what the spirit might look like.
 
